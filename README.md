@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Afolabi Ibikunle
+- 👋 Hi, I’m Afolabi Ibikunle, i am an aspiring software and devops engineer 
 - 👀 I’m interested in starting a career as a sofware Engineer
 - 🌱 I’m currently learning Software Engineering with Altschool Africa
 - 💞️ I’m looking to collaborate on Real life Projects
